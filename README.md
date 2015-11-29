@@ -5,3 +5,4 @@ The code is simple and can be modified according to the pin configuration and de
 
 This program has been tested for transferring data between 1Tb external harddrives as well.
 The program needs more refining and flexibility, any changes are welcomed.
+I will soon post the configuration of LCD and buttons on Raspberry pi.
