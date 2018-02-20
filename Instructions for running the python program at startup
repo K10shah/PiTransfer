@@ -1,3 +1,3 @@
 First Load Raspbian Os in your Pi board.
 Follow the steps provided at http://www.raspberrypi-spy.co.uk/2013/07/running-a-python-script-at-boot-using-cron/ 
-This will run your python script at the startup so that the program starts running and we can transfer files between 2 usc storage drives.
+This will run your python script at the startup so that the program starts running and we can transfer files between 2 USB storage drives.
